@@ -75,6 +75,6 @@ Working in a team environment on a structured milestone schedule provided valuab
 
 You can try the finished build here:
 
-[👉 [Demo Link Here]](https://trullin.itch.io/trullin-zelda-dungeon)
+https://trullin.itch.io/trullin-zelda-dungeon
 
 Thank you for checking it out!
