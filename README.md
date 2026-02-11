@@ -1,7 +1,7 @@
 (Trent Mullin)
 # The Legend of Zelda – First Dungeon Recreation (Unity)
 
-A recreation of the first dungeon from the original *The Legend of Zelda*, built in Unity as a top-down 2D adventure game inside a 3D environment — featuring a custom gameplay mechanic: **Keese Mode**.
+A recreation of the first dungeon from the original *The Legend of Zelda*, built in Unity as a top-down 2D adventure game inside a 3D environment, featuring a custom gameplay mechanic: **Keese Mode**.
 
 > Game Portfolio Project  
 > EECS 494 – Introduction to Computer Game Design  
