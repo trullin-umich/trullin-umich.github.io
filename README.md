@@ -1,71 +1,54 @@
-(Trent Mullin): https://trullin.itch.io/trullin-zelda-dungeon
-# Video Game Portfolio 
+# Trent Mullin — Video Game Portfolio (EECS 494)
+
+Unity / C# rapid prototypes focused on **gameplay systems**, **iteration speed**, and **player feedback**.
 
 ---
 
-# The Legend of Zelda – First Dungeon Recreation (Unity)
+# Rover Rush — P2 Gold (Final Prototype)
 
-A recreation of the first dungeon from the original *The Legend of Zelda*, built in Unity as a top-down 2D adventure game inside a 3D environment, featuring a custom gameplay mechanic: **Keese Mode**.
+**Top-down rover defense + base building.**  
+Build structures under pressure, manage resources (Sand / Iron / Copper / Gold), and survive escalating bug waves. The rover fabricates placed structures in-world and can be redirected via a waypoint tool for repositioning.
 
-> Game Portfolio Project  
-> EECS 494 – Introduction to Computer Game Design  
-> University of Michigan  
+**Play / Download:**  
+- Rover Rush: **[LINK HERE]**  
 
----
+![Rover Rush Screenshot](rover-rush.png)
 
-## About the Project
+## My Contributions (Solo)
+- Implemented build mode tooling (waypoint + multiple build tools), placement/queue system, and prefab fabrication flow  
+- Built rover AI behavior: waypoint driving, build targeting, timed fabrication, and in-world feedback  
+- Implemented economy expansion: multi-resource bank, costs per structure, and real-time UI updates  
+- Implemented wave director flow: start screen → intro camera sequence → prep/wave cycles → game over  
+- Added polish systems: reticle state, “insufficient resources” feedback, and event-driven SFX triggers
 
-This project is a faithful recreation of the first dungeon from the original NES *Legend of Zelda* game, rebuilt in Unity using C#.
-
-Our three-person team divided responsibilities across:
-
-- **Player systems**
-- **Enemy systems**
-- **Environment & dungeon mechanics**
-
-I was primarily responsible for:
-
-- Implementing coroutine-based room transitions between dungeon chambers  
-- Designing and implementing environmental mechanics  
-- Creating power-up systems  
-- Contributing to the logic behind our custom **Link → Keese transformation system**
-- Designing and building a custom demo map to showcase the Keese mechanic
-
----
-
-## Custom Feature: Keese Mode
-
-A unique mechanic we added to the classic formula.
-
-When equipped, Link can transform into a Keese (bat):
-
-- Fly over water
-- Access vent-based passageways
-- Evade enemies from above
-- Navigate with restricted visibility using a “blind bat” effect
-
-This mechanic required custom collision logic, layer manipulation, sprite transitions, and coroutine-driven transformation effects.
-
----
-
-## Technical Details
-
+## Technology
 - **Engine:** Unity  
 - **Language:** C#  
-- **Version Control:** Git (GitHub Desktop) with GitLab repository  
-- **Project Management:** Jira sprint planning  
-- **Architecture Highlights:**
-  - Coroutine-driven room transitions
-  - Layer-based physics control for flying mode
-  - State-based transformation system
-  - Tilemap slicing and environment reconstruction
+- **Systems:** EventBus / Pub-Sub architecture, TMP UI, coroutines + state machines  
 
 ---
 
-## What I Learned
+# The Legend of Zelda — First Dungeon Recreation (P1 Gold)
 
-This project strengthened my understanding of:
+A faithful recreation of the first dungeon from the original *The Legend of Zelda*, built in Unity as a top-down 2D adventure game inside a 3D environment. Includes a custom mechanic: **Keese Mode**.
 
+**Play:**  
+- Zelda Dungeon: https://trullin.itch.io/trullin-zelda-dungeon
+
+![Zelda Dungeon Screenshot](zelda-dungeon.png)
+
+## My Contributions
+- Coroutine-based room transitions between dungeon chambers  
+- Environmental mechanics and interaction logic  
+- Power-up systems + support work for Link → Keese transformation  
+- Designed and built a custom demo map to showcase the Keese mechanic
+
+## Technology
+- Unity, C#, Git, Jira sprint planning
+
+---
+
+## Notes 
 - Real-time game state management
 - Coroutines for visual and mechanical transitions
 - Collaborative version control workflows
@@ -82,4 +65,3 @@ You can try the finished build here:
 
 https://trullin.itch.io/trullin-zelda-dungeon
 
-Thank you for checking it out!
