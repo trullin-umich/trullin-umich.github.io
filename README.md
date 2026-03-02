@@ -35,7 +35,7 @@ A faithful recreation of the first dungeon from the original *The Legend of Zeld
 **Play:**  
 - Zelda Dungeon: https://trullin.itch.io/trullin-zelda-dungeon
 
-![Zelda Dungeon Screenshot](zelda-dungeon.png)
+![Zelda Dungeon Screenshot](zelda-dungeon2.png)
 
 ## My Contributions
 - Coroutine-based room transitions between dungeon chambers  
