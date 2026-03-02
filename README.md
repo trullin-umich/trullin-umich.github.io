@@ -1,9 +1,5 @@
----
-title: "Trent Mullin — Video Game Portfolio (EECS 494)"
-description: "Rover Rush (P2 Gold) and Zelda Dungeon (P1 Gold) — Unity rapid prototypes focused on gameplay systems and rapid iteration."
----
 
-# Trent Mullin — Video Game Portfolio (EECS 494)
+# Trent Mullin — Video Game Portfolio 
 
 Unity / C# rapid prototypes focused on **gameplay systems**, **iteration speed**, and **player feedback**.
 
