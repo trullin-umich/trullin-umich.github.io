@@ -11,7 +11,7 @@ Unity / C# rapid prototypes focused on **gameplay systems**, **iteration speed**
 Build structures under pressure, manage resources (Sand / Iron / Copper / Gold), and survive escalating bug waves. The rover fabricates placed structures in-world and can be redirected via a waypoint tool for repositioning.
 
 **Play / Download:**  
-- Rover Rush: **[LINK HERE]**  
+- Rover Rush: https://trullin.itch.io/rover-rush
 
 ![Rover Rush Screenshot](rover-rush.png)
 
