@@ -1,10 +1,10 @@
-# Trent Mullin — Video Game Portfolio 
+# Video Game Portfolio 
 
-Unity / C# gameplay systems focused on **real-time feedback, iteration, and scalable design**.
+Unity / C# gameplay systems focused on **feedback and iteration**.
 
 ---
 
-# GRIDDY — P3 Gold (Final Showcase Build)
+# GRIDDY | P3 Gold [Showcase Build]
 
 **Endless grid-based tactics roguelike with turn-based and deck-building mechanics.**  
 Face off against escalating enemy waves, increasing time pressure, and push for a spot on the leaderboard.
@@ -14,7 +14,7 @@ Face off against escalating enemy waves, increasing time pressure, and push for 
 
 ![GRIDDY Gameplay](Griddy_Gif.gif)
 
-## My Contributions (Team Project)
+## My Contributions [Team Project]
 
 - Created **3D models for player and enemy units** using Blender and integrated them into Unity  
 - Designed and implemented **material system and visual identity**, including emissive neon styling and color-coded enemies (white / cyan / magenta / yellow)  
@@ -41,7 +41,7 @@ Face off against escalating enemy waves, increasing time pressure, and push for 
 
 ---
 
-# Rover Rush — P2 Gold (Final Prototype)
+# Rover Rush | P2 Gold [Final Prototype]
 
 **Top-down rover defense + base building.**  
 Build structures under pressure, manage resources (Sand / Iron / Copper / Gold), and survive escalating bug waves. The rover fabricates placed structures in-world and can be redirected via a waypoint tool for repositioning.
@@ -51,7 +51,7 @@ Build structures under pressure, manage resources (Sand / Iron / Copper / Gold),
 
 ![Rover Rush Screenshot](rover-rush.png)
 
-## My Contributions (Solo)
+## My Contributions [Solo]
 - Implemented build mode tooling (waypoint + multiple build tools), placement/queue system, and prefab fabrication flow  
 - Built rover AI behavior: waypoint driving, build targeting, timed fabrication, and in-world feedback  
 - Implemented economy expansion: multi-resource bank, costs per structure, and real-time UI updates  
@@ -65,7 +65,7 @@ Build structures under pressure, manage resources (Sand / Iron / Copper / Gold),
 
 ---
 
-# The Legend of Zelda — First Dungeon Recreation (P1 Gold)
+# The Legend of Zelda | First Dungeon Recreation [P1 Gold]
 
 A faithful recreation of the first dungeon from the original *The Legend of Zelda*, built in Unity as a top-down 2D adventure game inside a 3D environment. Includes a custom mechanic: **Keese Mode**.
 
