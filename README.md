@@ -10,7 +10,7 @@ Unity / C# gameplay systems focused on **feedback and iteration**.
 Face off against escalating enemy waves, increasing time pressure, and push for a spot on the leaderboard.
 
 **Play / Download:**  
-- GRIDDY: https://alec-meyer.itch.io/griddy
+- GRIDDY: [https://alec-meyer.itch.io/griddy](https://alec-meyer.itch.io/griddy)
 
 ![GRIDDY Gameplay](Griddy_Gif.gif)
 
@@ -47,7 +47,7 @@ Face off against escalating enemy waves, increasing time pressure, and push for 
 Build structures under pressure, manage resources (Sand / Iron / Copper / Gold), and survive escalating bug waves. The rover fabricates placed structures in-world and can be redirected via a waypoint tool for repositioning.
 
 **Play / Download:**  
-- Rover Rush: https://trullin.itch.io/rover-rush
+- Rover Rush: [https://trullin.itch.io/rover-rush](https://trullin.itch.io/rover-rush)
 
 ![Rover Rush Screenshot](rover-rush.png)
 
@@ -70,7 +70,7 @@ Build structures under pressure, manage resources (Sand / Iron / Copper / Gold),
 A faithful recreation of the first dungeon from the original *The Legend of Zelda*, built in Unity as a top-down 2D adventure game inside a 3D environment. Includes a custom mechanic: **Keese Mode**.
 
 **Play:**  
-- Zelda Dungeon: https://trullin.itch.io/trullin-zelda-dungeon
+- Zelda Dungeon: [https://trullin.itch.io/trullin-zelda-dungeon](https://trullin.itch.io/trullin-zelda-dungeon)
 
 ![Zelda Dungeon Screenshot](zelda-dungeon2.png)
 
@@ -98,4 +98,4 @@ A faithful recreation of the first dungeon from the original *The Legend of Zeld
 
 You can try the finished build here:
 
-https://trullin.itch.io/trullin-zelda-dungeon
+[https://trullin.itch.io/trullin-zelda-dungeon](https://trullin.itch.io/trullin-zelda-dungeon)
